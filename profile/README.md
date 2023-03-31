@@ -1,0 +1,3 @@
+This organization holds assignment and lab codes for [BEE 4850, Environmental Data Analysis and Simulation](https://viveks.me/environmental-data-analysis), taught at [Cornell University](https://cornell.edu) by [Vivek Srikrishnan](https://viveks.me). 
+
+**If you are enrolled in this course, please do not directly interact with these repositories --- you should accept these assignments through GitHub Classroom links in Ed Discussion.** However, if you would like to work with these notebooks for general use, I hope they're helpful, and please contact me if you find any bugs or would like to suggest improvements.
